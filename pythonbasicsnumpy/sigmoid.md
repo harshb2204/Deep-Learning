@@ -1,6 +1,6 @@
 # Sigmoid Function Implementation
 
-![sigmoid](images/sigmoid.png)
+![sigmoid](/images/sigmoid.png)
 
 
 This Python function computes the sigmoid of a scalar input `x`.
